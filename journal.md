@@ -1,3 +1,9 @@
 # August 27, 2025
 # October 6, 2025 If you were in charge of your school, what would your technology and AI policy be? Think about things like cell phones, Chromebooks, AI tools (like ChatGPT), and online games. Should games be blocked, or should certain ones (like math or learning games) be allowed? In 5–7 sentences, explain your rules and why you think they would make school better. As head of the school I'd make sure our tech policy really pushes tools to help with learning but cuts down on stuff that pulls kids away. Cell phones may be put away until the last few minutes of class so everyone stays on track with the lessons. They can be fully ussable at lunch lunch though. I'd bring in AI things like ChatGPT, treat them as solid helpers for coming up with ideas and digging into research. Still, I'd spend time teaching the right way to use it and about ethics so no one copies and everyone thinks up their own stuff. For chromebooks id say keep anything inapropriate blocked but not every website blocked
 # October 15, 2025 https://water2.my.canva.site/ My prompt was designed to make an interactive learning assignment about the water cycle. Canva interpreted it by making an interactive type of game where you can click on things and it would tell you how the water cycle works. It even made a quiz to test what you have learned. The interactive parts that worked the best were the clouds when you click on them they would actually rain. Something I could improve is the pictures, I feel like they couldve been better.
+# October 20, 2025 
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | second  |   91A   |
+| Hardeep  | Third   |  61F    |
+| Marla    |   First    |   35B   |
