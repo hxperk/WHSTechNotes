@@ -7,3 +7,5 @@
 | Franklin | second  |   91A   |
 | Hardeep  | Third   |  61F    |
 | Marla    |   First    |   35B   |
+November 3, 2025
+The main issue comes up when the SNAP program runs short on funding. Then millions of families suddenly lose the help they count on for buying food. This matters a lot since so many folks, including low-income households, kids, and older people, depend on SNAP just to get decent meals. Without that support, food shortages and outright hunger spread fast among those groups. Tech could step in here by building apps or sites that point people toward free meal spots, nearby food pantries, or shops with special deals. Still, there are real hurdles to overcome. Plenty of people lack steady internet, do not own smartphones, or simply struggle with using digital tools well. If I got to design something for this, I would build an app named FoodLink. It would pull up free food options right away based on location. The app would give clear directions to those spots. It would also push out notices about fresh community food events. Even better, it would run without needing constant online connection. That way it reaches folks who cannot always get online.
