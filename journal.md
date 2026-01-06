@@ -16,4 +16,6 @@ Being a drone software engineer stands out as a really solid career choice. Thes
 # December 8, 2025
 I think a self-driving car could end up not stopping for a school bus. The AI training data probably does not cover enough of the varied visual situations for a stopped bus in different times of day, kinds of weather, or types of roads. Cameras and sensors on the car might have trouble detecting things clearly. For instance, flashing red lights could get hidden by glare or fog. The stop arm might only appear at the very last second because of how the car approaches or due to other traffic in the way. On top of that, the AI has to do more than just identify the vehicle as a bus. It must also figure out that the flashing lights and stop arm signal a required stop right away. That kind of interpretation involves complicated rules. Human drivers usually pick it up through real-world practice over time.
 # December 15, 2025
-For winter break i will have nothing plans.
+For winter break i will have nothing planned.
+# January 6, 2026
+Over the winter break I used technology in many ways. I used my tv to watch streaming services like Netflix, Disney +, and Hulu. I used my phone to call, watch youtube, and watch tiktok. Lastly I used my computer to make videos and play games.
