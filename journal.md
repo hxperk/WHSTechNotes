@@ -28,3 +28,9 @@ The test I took this week was the MAP Test, and I feel mixed about my performanc
 # February 10, 2026
 I do not enjoy football because I keep losing on parlays and getting injured when I play.
 I did not watch the Super Bowl.
+# March 30, 2026
+March Madness upsets always seem to come out of nowhere. Its like the emotion and all that pressure in a one and done game just takes over. Regular season numbers do not mean much when teams get that momentum going.
+Take what happened a couple years back in 2024. Oakland, that 14 seed, somehow beat Kentucky who was a 3 seed. Kentucky had all these future NBA guys and much higher rankings. But then Jack Gohlke from Oakland starts draining threes, like ten of them. He just lit it up, and that was it.
+I think computer models miss stuff like that all the time. They stick to averages from the whole season. How can an algorithm really figure out when an underdog goes crazy or a big team freezes up. It feels impossible.
+If I tried making a bracket predictor program myself, it would be tough. Things like how the team gets along, or a last minute injury, or even just the vibe when they are on a hot streak right then. That stuff does not fit into code easy.
+Maybe I could throw in something like a clutch factor. You know, look at how they play in the final five minutes when games are tight. Instead of just overall stats. But even then, people are unpredictable. The math breaks down, and thats why every year our brackets end up wrecked. Or at least mine do.
