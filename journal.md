@@ -28,6 +28,12 @@ The test I took this week was the MAP Test, and I feel mixed about my performanc
 # February 10, 2026
 I do not enjoy football because I keep losing on parlays and getting injured when I play.
 I did not watch the Super Bowl.
+# march 23, 2026
+I picked my March Madness bracket mostly by looking at seeds and records, but threw in some guesses too. Higher teams seemed safe, you know. I added a couple upsets just because they felt right. It started okay, but then those early surprises hit. One loss snowballed into messing up the whole thing later on.
+The first weekend had so many low seeds winning. I mean, upsets happen, but not like that. Some big names went out fast, and games were super close. Higher seeds should win more steadily, I think, yet stuff like pressure or a hot streak flips everything.
+Maybe if I used more stats next time, it would help. Like scoring numbers, defense ratings, how they played lately. A team might not look great on paper, but if they score a lot or stop opponents well, they could pull an upset. That info makes picks feel less random.
+Computers do this way better, probably. They crunch all the data fast, look at old games, spot trends we overlook. Run a bunch of sims to see odds. No feelings getting in the way, just straight numbers.
+Careers around sports data sound interesting. Analysts, stats people, engineers coding it up, data scientists. They dig into games, predict stuff, help teams or fans. Tech and numbers changing how we see sports, sort of.
 # March 30, 2026
 March Madness upsets always seem to come out of nowhere. Its like the emotion and all that pressure in a one and done game just takes over. Regular season numbers do not mean much when teams get that momentum going.
 Take what happened a couple years back in 2024. Oakland, that 14 seed, somehow beat Kentucky who was a 3 seed. Kentucky had all these future NBA guys and much higher rankings. But then Jack Gohlke from Oakland starts draining threes, like ten of them. He just lit it up, and that was it.
